@@ -63,6 +63,7 @@ pip install opencv-contrib-python
 pip install pillow
 pip install numpy
 pip install mysql-connector-python
+pip install tkinter
 ```
 
 ### 3. Install MySQL Server
